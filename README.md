@@ -2,16 +2,16 @@
 
 
 ## About me
-- I'm a **20** year-old student at **[Case Western Reserve University](https://en.wikipedia.org/wiki/Case_Western_Reserve_University)**
-- I'm majoring in **computer science** and minoring in **English**, although I'm switching my English minor for a double major.
-- I hope to work as either a **software developer** or **technical writer**.
+- I'm a **20** year-old student at **[Case Western Reserve University](https://en.wikipedia.org/wiki/Case_Western_Reserve_University)** 🎓
+- I'm majoring in **computer science** and minoring in **English**, although I'm switching my English minor for a double major 📖
+- I hope to work as either a **software developer** or **technical writer** 💻
 - My passions include
-    - Music production and audio engineering
-    - Cooking for others
-    - Writing
-    - Brewing tea
-    - Full-stack web development
-- To contact or learn more about me, please check out [my website](http://evelynsethernet.tech/)!
+    - Music production and audio engineering 🎵
+    - Cooking for others 🍽️
+    - Writing 📒
+    - Brewing tea 🍵
+    - Full-stack web development 👩‍💻
+- To contact or learn more about me, please check out [my website!](http://evelynsethernet.tech/)
 
 ## Technologies
 
