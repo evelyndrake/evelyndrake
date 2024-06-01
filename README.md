@@ -11,7 +11,7 @@
     - Writing 📒
     - Brewing tea 🍵
     - Full-stack web development 👩‍💻
-- To contact or learn more about me, please check out [my website!](http://evelynsethernet.tech/)
+- To contact or learn more about me, please check out [my website!](https://evelynsethernet.tech/)
 
 ## Technologies
 
