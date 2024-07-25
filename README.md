@@ -1,7 +1,5 @@
 # Hey!
 
-
-## About me
 - I'm a **20** year-old student at **[Case Western Reserve University](https://en.wikipedia.org/wiki/Case_Western_Reserve_University)** 🎓
 - I'm majoring in **computer science** and minoring in **English**, although I'm switching my English minor for a double major 📖
 - I hope to work as either a **software developer** or **technical writer** 💻
@@ -11,7 +9,7 @@
     - Writing 📒
     - Brewing tea 🍵
     - Full-stack web development 👩‍💻
-- To contact or learn more about me, please check out [my website!](https://evelynsethernet.tech/)
+- To contact or learn more about me, please check out [my website!](https://evelynsethernet.dev/)
 
 ## Technologies
 
