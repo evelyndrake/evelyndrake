@@ -6,7 +6,7 @@
 - My passions include
     - Music production and audio engineering 🎵
     - Cooking for others 🍽️
-    - Writing 📒
+    - Technical writing 📒
     - Brewing tea 🍵
     - Full-stack web development 👩‍💻
 - To contact or learn more about me, please check out [my website!](https://evelynsethernet.dev/)
