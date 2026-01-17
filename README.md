@@ -56,5 +56,5 @@
 ![Microsoft Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=libreofficeimpress&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=libreofficewriter&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
-![Oxygen XML](https://img.shields.io/badge/Oxygen-XML-2B579A?style=for-the-badge)
+![Oxygen XML](https://img.shields.io/badge/Oxygen%20XML-2B579A?style=for-the-badge)
 
